@@ -1,0 +1,27 @@
+2026-08-27T05:33:27.410554Z  INFO herdr::api::server: api server listening path=/home/a.a.kim@tfoms-sakhalin.loc/.config/herdr/herdr.sock
+2026-08-27T05:33:27.413591Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-08-27T05:33:27.466927Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-08-27T05:33:27.472456Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=40 cols=120 scrollback_limit_bytes=10000000
+2026-08-27T05:33:27.473490Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=36574
+2026-08-27T05:33:27.473719Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="w1" pane_id=1
+2026-08-27T05:33:27.473732Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1"
+2026-08-27T05:33:27.473743Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1" tab_id="w1:t1"
+2026-08-27T05:33:27.473749Z  INFO herdr::server::headless: created startup workspace cwd=/home/a.a.kim@tfoms-sakhalin.loc
+2026-08-27T05:33:27.473817Z  INFO herdr::server::headless: client protocol socket listening path=/home/a.a.kim@tfoms-sakhalin.loc/.config/herdr/herdr-client.sock
+2026-08-27T05:33:27.473853Z  INFO herdr::server::headless: herdr server started api_socket=/home/a.a.kim@tfoms-sakhalin.loc/.config/herdr/herdr.sock client_socket=/home/a.a.kim@tfoms-sakhalin.loc/.config/herdr/herdr-client.sock
+2026-08-27T05:33:27.474009Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=36546
+2026-08-27T05:33:27.726947Z  INFO herdr::server::headless: client connected client_id=2 cols=80 rows=24 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-08-27T05:33:32.477513Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/a.a.kim@tfoms-sakhalin.loc/.config/herdr/session.json workspaces=1
+2026-08-27T05:34:18.692530Z  INFO herdr::server::headless: client resize client_id=2 cols=182 rows=20 cell_width_px=0 cell_height_px=0
+2026-08-27T05:34:19.994209Z  INFO herdr::server::headless: client resize client_id=2 cols=90 rows=42 cell_width_px=0 cell_height_px=0
+2026-08-27T05:41:26.882202Z  INFO herdr::app::actions: copied selection to clipboard
+2026-08-27T05:41:29.489679Z  INFO herdr::app::actions: copied selection to clipboard
+2026-08-27T05:41:30.242864Z  INFO herdr::app::actions: copied selection to clipboard
+2026-08-27T05:42:41.363181Z  INFO herdr::app::actions: copied selection to clipboard
+2026-08-27T06:01:43.913394Z  INFO herdr::server::headless: client resize client_id=2 cols=182 rows=45 cell_width_px=0 cell_height_px=0
+2026-08-27T06:01:44.513569Z  INFO herdr::server::headless: client resize client_id=2 cols=90 rows=42 cell_width_px=0 cell_height_px=0
+2026-08-27T06:01:46.315537Z  INFO herdr::server::headless: client resize client_id=2 cols=182 rows=42 cell_width_px=0 cell_height_px=0
+2026-08-27T06:01:47.116160Z  INFO herdr::server::headless: client resize client_id=2 cols=80 rows=24 cell_width_px=0 cell_height_px=0
+2026-08-27T06:01:50.719785Z  INFO herdr::server::headless: client resize client_id=2 cols=182 rows=45 cell_width_px=0 cell_height_px=0
+2026-08-27T06:03:27.468328Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-08-27T06:33:27.469507Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
