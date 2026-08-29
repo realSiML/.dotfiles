@@ -1,7 +1,7 @@
 # Usage
 
 ```bash
-git clone git@github.com:realSiML/.dotfiles.git ~/.dotfiles
-cd ~/.dotfiles
-stow -v *
+git clone git@github.com:realSiML/.dotfiles.git
+cd .dotfiles
+stow -v -t ~ */
 ```
