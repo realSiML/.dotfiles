@@ -1,7 +1,7 @@
 # Usage
 
 ```bash
-git clone git@github.com:realSiML/.dotfiles.git
+git clone --recurse-submodules git@github.com:realSiML/.dotfiles.git
 cd .dotfiles
 stow -v -t ~ */
 ```
